@@ -58,4 +58,11 @@ button {
 button:hover {
   background-color: white;
   color: black;
+  transition: all 350ms ease;
+}
+
+footer {
+  background-color: rgb(70, 70, 70);
+  height: 100px;
+  margin-top: 15px;
 }
